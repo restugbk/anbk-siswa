@@ -10,7 +10,7 @@ node app.js
 ### 📥 DOWNLOAD APK (DEBUG)
 
 ```bash
-[node app.js](https://www.mediafire.com/file/4brxr5wj9wxu8o7/debug.apk/file)
+https://www.mediafire.com/file/4brxr5wj9wxu8o7/debug.apk/file
 ```
 
 ## 🛠 Support
